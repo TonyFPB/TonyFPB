@@ -1,10 +1,8 @@
 <h1>Hey there, welcome to my profile 👋</h1>
 
-<div style="display: flex; justify-content: center;">
 <img src="https://media.tenor.com/0uISrCKju1kAAAAM/edward-cowboy-bebop.gif"/>
-</div>
 
-<h3>My name is Antônio Fábio, but if you want you can call me tony. I'm a fullstack web developer who loves solving challenging programming problems and in his spare time loves playing video games.</h3>
+<h3>My name is Antônio Fábio, but if you want you can call me tony. I'm a fullstack web developer who loves solving challenging programming problems and in his spare time loves playing video games. :joystick: </h3>
 
 <br>
 <h2>💬 <span style="font-style:italic;">Contact me</span></h2>
