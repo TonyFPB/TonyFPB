@@ -45,9 +45,19 @@
   <a href="https://www.postgresql.org/docs/">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="postgresql" width="40" height="40"/> 
   </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="70" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <a href="https://redis.io/docs/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
+  </a>
+  <a href="https://aws.amazon.com/pt/?nc2=h_lg">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="70" height="40"/> 
+  </a>
+  <a href="https://docs.docker.com/">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/> 
+  </a>
+  <a href="https://www.google.com/search?q=linux&oq=linux&aqs=chrome..69i57j69i64j35i39j0i512l5.1322j0j4&sourceid=chrome&ie=UTF-8">
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/doc">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
 </div>
