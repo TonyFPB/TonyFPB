@@ -15,7 +15,7 @@
 
 <h2>💻 <span style="font-style:italic;">Languages and Tools</span></h1>
 <div style="display: flex; gap:10px; ">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> 
   </a>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="40" height="40"/>
